@@ -1,6 +1,6 @@
 # adelaide-sampling-map
 
-I sampled 15 plots for my bachelor’s thesis and still don’t know if that was enough. I’m going to CSIRO in Adelaide in 2027, so I made a map of soil order, water capacity, rainfall and slope there. When I tried to place sampling points I just picked them by eye. Then I read Xia et al. 2024 (Geoderma), who used conditioned Latin hypercube sampling (cLHS), and tried the method on my map. This is only a small test of the sampling idea.
+I sampled 15 plots for my bachelor’s thesis and still don’t know if that was enough. I’m going to CSIRO in Adelaide in 2027, so I made a map of soil order, water capacity, rainfall and slope there. When I tried to place sampling points I just picked them randomly. Then I read Xia et al. 2024 (Geoderma), who used conditioned Latin hypercube sampling (cLHS), and tried the method on my map. This is only a small test of the sampling idea.
 
 15 cLHS points hit every decile of rainfall, water capacity and slope, 15 random points about 79 %. With 40 points both cover these well. Rare soil types were missed either way. Nothing was actually sampled, I’m just testing which method could fit best.
 
