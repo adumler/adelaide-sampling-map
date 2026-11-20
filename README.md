@@ -13,8 +13,12 @@ missed either way. Nothing was actually sampled, im just testing which method co
 The data are too big for GitHub, put them in a folder called
 data next to the script. R packages: terra, clhs.
 
-Dumler_sampling_concept_map.pdf - the map
-clhs_adelaide.R - cLHS vs random
-rainfallr.R - rainfall 2015-2024 from SILO
-slope.R - slope from TERN (needs an API key)
-png/csv - results and
+- Dumler_sampling_concept_map.pdf - the map
+- clhs_adelaide.R - cLHS vs random
+- rainfallr.R - rainfall 2015-2024 from SILO
+- slope.R - slope from TERN (needs an API key)
+- png/csv - results and point coordinates
+
+Data: TERN Soil and Landscape Grid AWC 5-15 cm (doi:10.25919/4jwj-na34),
+TERN slope 1 arc-second (doi:10.25919/jr32-yq58), SILO rainfall,
+Atlas of Australian Soils (CSIRO)
